@@ -1,4 +1,4 @@
-<h1 align="center">Animated View 👋</h1>
+<h1 align="center">Animated View 👋 bonjour</h1>
 
 <p align="center">
   <a aria-label="made with expo" href="https://github.com/expo" target="_blank">
